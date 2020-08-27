@@ -1,0 +1,14 @@
+* {
+  font-family: rotobo, sans-serif;
+}
+
+.header-content {
+  height: 50px;
+  background: #4d51e8;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: rotobo, sans-serif;
+  font-size: 10px;
+}

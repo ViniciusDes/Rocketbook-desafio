@@ -1,0 +1,30 @@
+.postagens {
+  color: #656565;
+  width: 600px;
+  height: autonp;
+  background: white;
+  padding: 15px;
+  border-radius: 4px;
+  box-shadow: 0px 0px 1em #666;
+  -webkit-box-shadow: 0px 0px 10px rgb(122, 122, 122); /*sombra */
+  -moz-box-shadow: 0px 0px 1em #666;
+}
+.paragf-tempo {
+  font-size: 15px;
+}
+.perfil-itens p {
+  margin: 4px;
+}
+.postagens .linha {
+  color: #e8e8e8;
+}
+.postagens .postagem-perfil-usuario {
+  display: flex;
+  align-items: center;
+}
+
+.postagens .postagem-perfil-usuario img {
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+}

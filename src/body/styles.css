@@ -1,0 +1,9 @@
+#body {
+  display: flex;
+  flex-direction: column;
+}
+
+#body .postagens {
+  margin-top: 20px;
+  align-self: center;
+}
